@@ -1,6 +1,6 @@
 Hi there 👋
 
-- 🔭 I’m currently working on Chatbots.
+- 🔭 I’m currently working on Computer Vision.
 - 🌱 I’m currently learning Python.
 - 💬 Ask me about Python.
 - 📫 How to reach me: https://www.linkedin.com/in/ojas-sharma4/
